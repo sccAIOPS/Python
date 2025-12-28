@@ -1,7 +1,7 @@
 ---
 name: ArchitectureAnalyst
 description: 'Extracts and documents low-level architecture from Python codebase with UML diagrams in PlantUML format.'
-tools: ['read', 'search', 'serena/*', 'web']
+tools: ['vscode', 'execute', 'read', 'agent', 'edit', 'search', 'web', 'serena/*', 'todo']
 model: Claude Opus 4.5
 ---
 

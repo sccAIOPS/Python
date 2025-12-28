@@ -1,7 +1,7 @@
 ---
 name: TestEngineer
 description: 'Executes comprehensive testing including functional, API, and load testing (soak, peak, stress) to validate NFRs.'
-tools: ['read', 'search', 'serena/*', 'execute', 'web']
+tools: ['vscode', 'execute', 'read', 'agent', 'edit', 'search', 'web', 'serena/*', 'todo']
 model: Claude Opus 4.5
 ---
 

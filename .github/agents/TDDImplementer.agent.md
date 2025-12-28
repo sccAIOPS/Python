@@ -1,7 +1,7 @@
 ---
 name: TDDImplementer
 description: 'Implements algorithms using Test-Driven Development with doctests, unit tests, and integration tests.'
-tools: ['read', 'edit', 'search', 'serena/*', 'execute', 'todo']
+tools: ['vscode', 'execute', 'read', 'agent', 'edit', 'search', 'web', 'serena/*', 'todo']
 model: Claude Opus 4.5
 ---
 

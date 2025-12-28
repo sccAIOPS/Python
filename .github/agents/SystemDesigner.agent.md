@@ -1,7 +1,7 @@
 ---
 name: SystemDesigner
 description: 'Designs high-level and low-level system architecture for Python algorithm implementations with detailed specifications.'
-tools: ['read', 'search', 'serena/*', 'web']
+tools: ['vscode', 'execute', 'read', 'agent', 'edit', 'search', 'web', 'serena/*', 'todo']
 model: Claude Opus 4.5
 ---
 

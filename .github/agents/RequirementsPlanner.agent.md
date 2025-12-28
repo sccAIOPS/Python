@@ -1,7 +1,7 @@
 ---
 name: RequirementsPlanner
 description: 'Plans new features using BDD, SOLID, and KISS principles with comprehensive requirement specifications.'
-tools: ['read', 'search', 'serena/*', 'web', 'todo']
+tools: ['vscode', 'execute', 'read', 'agent', 'edit', 'search', 'web', 'serena/*', 'todo']
 model: Claude Opus 4.5
 ---
 

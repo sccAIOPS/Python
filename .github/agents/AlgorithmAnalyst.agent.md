@@ -1,7 +1,7 @@
 ---
 name: AlgorithmAnalyst
 description: 'Analyzes algorithm implementations for complexity, pitfalls, edge cases, and provides optimization recommendations.'
-tools: ['read', 'search', 'serena/*', 'web']
+tools: ['vscode', 'execute', 'read', 'agent', 'edit', 'search', 'web', 'serena/*', 'todo']
 model: Claude Opus 4.5
 ---
 

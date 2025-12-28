@@ -1,7 +1,7 @@
 ---
 name: CodeReviewer
 description: 'Reviews code for style compliance, quality, security vulnerabilities, and best practices using Ruff and security tools.'
-tools: ['read', 'search', 'serena/*', 'execute', 'web']
+tools: ['vscode', 'execute', 'read', 'agent', 'edit', 'search', 'web', 'serena/*', 'todo']
 model: Claude Opus 4.5
 ---
 

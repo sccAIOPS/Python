@@ -1,7 +1,7 @@
 ---
 name: PatternExtractor
 description: 'Extracts and documents design patterns, data structures, and algorithms implemented in the Python codebase.'
-tools: ['read', 'search', 'serena/*', 'web']
+tools: ['vscode', 'execute', 'read', 'agent', 'edit', 'search', 'web', 'serena/*', 'todo']
 model: Claude Opus 4.5
 ---
 
